@@ -49,6 +49,11 @@ The dataset is stored in `daily_price.csv` and includes columns like:
 
 ---
 
+## 🙋‍♂️ Author
+
+**Pradeep**  
+🔗 GitHub: [@PradeepPradeep1234](https://github.com/PradeepPradeep1234)
+
 ## 🧪 How to Run Locally
 
 ```bash
